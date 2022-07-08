@@ -29,14 +29,15 @@
 
 ![image](https://user-images.githubusercontent.com/105671364/178037659-5fc42c5c-777e-4920-82a7-6c771e323284.png)
 
-![image](https://user-images.githubusercontent.com/105671364/178037717-1270a343-2546-4bd4-b665-705285d6643e.png)
+![image](https://user-images.githubusercontent.com/105671364/178047117-b7683de5-5f7a-4713-ade5-a38cb700db97.png)
 
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR 
 
 ![image](https://user-images.githubusercontent.com/105671364/178038566-831dab86-a236-45a8-bee1-aa518d429371.png)
 
-![image](https://user-images.githubusercontent.com/105671364/178038628-2f12a9b5-6cb7-4fb7-a040-db95e2c3f1ed.png)
+![image](https://user-images.githubusercontent.com/105671364/178047104-88cb377a-21d1-4950-b14a-3db92b4bf6be.png)
+
 
 ## 5. VIDEO 
 
